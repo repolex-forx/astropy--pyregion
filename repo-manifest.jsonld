@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/astropy/pyregion/commit/cbfe54945dca2076b8b178edf8994b2e15864b81",
       "git:hexsha": "cbfe54945dca2076b8b178edf8994b2e15864b81",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/astropy/pyregion/commit/f3b7310a413febe7453335b77f9dd5498d5126c3",
