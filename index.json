@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "pyregion",
+  "versions": [
+    {
+      "commit": "cbfe54945dca2076b8b178edf8994b2e15864b81",
+      "tag": "",
+      "parsed_at": "2026-11-07T00:59:51.234763+00:00"
+    }
+  ]
+}
